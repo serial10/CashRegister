@@ -1,0 +1,6 @@
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+c:\users\greg\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
